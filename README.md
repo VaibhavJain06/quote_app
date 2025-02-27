@@ -1,16 +1,17 @@
-# quote_app
+**Quotes App**
 
-A new Flutter project.
+A simple Flutter Quotes App that fetches random quotes from the Ninja API and displays them beautifully in the UI. Users can generate new quotes and share them with others.
 
-## Getting Started
+**Features**
 
-This project is a starting point for a Flutter application.
+Fetches random quotes from the Ninja API
 
-A few resources to get you started if this is your first Flutter project:
+Clean and minimal UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Refresh button to get new quotes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Share quotes with others
+
+**API Used**
+
+This app fetches quotes from Ninja API. 
